@@ -1,1 +1,1 @@
-var app = angular.module("roadtripApp", []);
+var app = angular.module("roadtripApp", ["firebase"]);
